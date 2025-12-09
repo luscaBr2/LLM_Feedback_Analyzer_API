@@ -1,0 +1,26 @@
+[
+    {
+        "id_transcricao": 1000,
+        "transcricao": "O chatbot travou completamente após a pergunta sobre o preço do plano premium. Tive que recomeçar 3 vezes."
+    },
+    {
+        "id_transcricao": 1001,
+        "transcricao": "Achei a solução para meu problema muito rapidamente. O assistente me direcionou corretamente em menos de 1 minuto! Ótimo trabalho."
+    },
+    {
+        "id_transcricao": 1002,
+        "transcricao": "Gostaria de sugerir uma funcionalidade: adicionar um botão de 'desfazer' quando digitamos uma resposta errada. É frustrante ter que apagar tudo."
+    },
+    {
+        "id_transcricao": 1003,
+        "transcricao": "Não consegui acessar a fatura de jeito nenhum. A opção do menu não funcionava, e o link que o bot mandou estava quebrado."
+    },
+    {
+        "id_transcricao": 1004,
+        "transcricao": "Fui muito bem atendido e consegui resolver o meu problema de configuração. O bot soube exatamente o que eu precisava."
+    },
+    {
+        "id_transcricao": 1005,
+        "transcricao": "Preciso que vocês integrem o sistema com o Slack, facilitaria muito a comunicação interna de vocês."
+    }
+]
